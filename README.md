@@ -5,7 +5,7 @@
 # senai-versoes-colaboracoes
 <h1 align="center">Repositório de versões e colaborações</h1>
 
-## Descrição do Projeto
+# Descrição do Projeto
 <p align="center">Repositorio para atividades pertinentes ao curso Full-Stack</p>
 
 <h1 align="center">
