@@ -12,7 +12,7 @@
     <a href="https://br.linkedin.com/in/brenerpittner">🔗 Linkedin</a>
 </h1>
 <h1 align="center">
-<a href=https://sites.google.com/view/pittner>🔗 Linkedin</a>
+<a href=https://sites.google.com/view/pittner>🔗 Website</a>
 </h1>
 
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
